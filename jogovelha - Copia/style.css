@@ -21,7 +21,7 @@ button {
     width: 100px;
     height: 100px;
     line-height: 100px;
-    background-color: rgb(156, 194, 158);
+    background-color: rgb(196, 145, 238);
     font-size: 100px;
     border-left: 0;
     border-top: 0;
@@ -36,16 +36,16 @@ button {
 }
 
 button:disabled {
-    border-color: rgb(47, 119, 65);
+    border-color: rgb(126, 25, 209);
 }
 
 h1 {
-    color: rgb(11, 121, 44);
-    background-color: rgb(95, 187, 126);
+    color: rgb(126, 25, 209);
+    background-color: rgb(196, 145, 238);
     padding: 10px 60px;
     text-align: center;
 }
 
 * {
-    background-color: rgb(71, 156, 100);
+    background-color: rgb(207, 166, 241);
 }
